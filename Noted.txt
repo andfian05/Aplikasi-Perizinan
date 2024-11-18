@@ -1,0 +1,4 @@
+php artisan migrate:fresh --seed
+
+akun : user2@gmail.com {asd123}
+akun II : tam123@gmail.com {qwerty123}
